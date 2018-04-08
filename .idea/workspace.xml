@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4af7b5dc-93c3-4dd0-9018-eda84240d33a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/online.iml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/in/a_example.in" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/in/b_should_be_easy.in" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/in/c_no_hurry.in" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/in/d_metropolis.in" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/in/e_high_bonus.in" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/in_d/d_metropolis.in" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/in_test/d_metropolis.in" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/main_test.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/online_qualification_round_2018.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/out_a" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/out_b" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/out_c" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/out_d" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/out_e" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out_d/d_metropolis.out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out_test/c_no_hurry.out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out_test/d_metropolis.out" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -248,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1523176333749</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First commit #2">
+      <created>1523176354117</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1523176354117</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -286,7 +273,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="main" />
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="First commit #2" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit #2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
